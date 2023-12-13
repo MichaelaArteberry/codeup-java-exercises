@@ -9,7 +9,7 @@ public class HelloWorld {
         System.out.println(myString);
         long myNumber = 123;
         System.out.println(myNumber);
-        float myNumber2 = myNumber;
+        float myNumber2 = 124F;
         System.out.println(myNumber2);
 //        int x = 5;
 //        System.out.println(x++);
