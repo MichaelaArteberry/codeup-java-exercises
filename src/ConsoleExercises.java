@@ -16,6 +16,7 @@ public class ConsoleExercises {
         System.out.println(firstWord + "\n" + secondWord + "\n" + thirdWord);
 
         System.out.print("Enter a sentence: ");
+        scanner.nextLine();
         String userSentence = scanner.nextLine();
         System.out.println(userSentence);
 
